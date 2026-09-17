@@ -14,3 +14,24 @@ Predictions
 ----Trace3----
 Not an A
 done
+
+Results
+
+----Trace1----
+3
+3.5
+3.0
+0.5
+0.30000000000000004
+//assumed it would simply add the 
+//two numbers as they were displayed rather 
+//than whatever it ended up doing here.
+
+----Trace2----
+10
+-1
+
+----Trace3----
+//assumed the if else statement would 
+//act on the number
+done
