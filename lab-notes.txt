@@ -35,3 +35,5 @@ Results
 //assumed the if else statement would 
 //act on the number
 done
+
+looking at the diff is useful so you can make sure your changes go through before you push them to the repository.
